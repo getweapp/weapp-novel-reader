@@ -1,0 +1,3 @@
+<view class="content">
+    <view wx:for="{{duanluo}}" wx:key="item.id" class="duanluo">{{item}}</view>
+    </view>

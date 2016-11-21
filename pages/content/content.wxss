@@ -1,0 +1,8 @@
+.content{
+    padding: 15rpx;
+}
+
+.duanluo {
+    display: block;
+    margin-bottom: 12rpx;
+}
